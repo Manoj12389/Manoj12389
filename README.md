@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://" alt="Web Developer Banner" width="100%">
+<!--   <img src="https://" alt="Web Developer Banner" width="100%"> -->
 </p>
 
 <h1 align="center">Hi there, I'm <b>Manoj</b> 👋</h1>
