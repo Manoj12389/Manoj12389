@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm <b>Manoj</b> 👋</h1>
 
 <p align="center">
-  <i>A passionate Web Developer crafting engaging, responsive, and user-friendly websites.</i>
+  <i>A passionate front-end Web Developer crafting engaging, responsive, and user-friendly websites.</i>
 </p>
 
 ---
