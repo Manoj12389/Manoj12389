@@ -29,15 +29,15 @@
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React.js • Tailwind CSS • Bootstrap • Next.js</td>
+    <td>React.js • Tailwind CSS  • Next.js</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td>Node.js • Express.js • MongoDB • Firebase</td>
+    <td>Node.js • Express.js • Firebase</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git • GitHub • VS Code • Figma • Postman • Vercel</td>
+    <td>Git • GitHub • VS Code • Vercel</td>
   </tr>
 </table>
 
