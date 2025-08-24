@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- <img src="https://media.istockphoto.com/id/1306977964/vector/web-front-end-developing-banner.jpg?s=612x612&w=0&k=20&c=b5WnbKrqvj8lhqhDqhVSZNlbxm9I1y1b15w4ca1lnkQ" alt="Web Developer Banner" width="100%">
+ <img src="https://media.istockphoto.com/id/1306977964/vector/web-front-end-developing-banner.jpg" alt="Web Developer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm <b>Manoj</b> 👋</h1>
